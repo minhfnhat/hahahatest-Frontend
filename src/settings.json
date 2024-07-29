@@ -1,0 +1,88 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "CtaWithAppScreenshot",
+      "variables": {
+        "description": "Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur commodo do ea.",
+        "linkText1": "Get started",
+        "linkText2": "Learn more",
+        "titlePart1": "Boost your productivity.",
+        "titlePart2": "Start using our app today."
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Work Likfe is crafted to resolve the common pain points in managing work and personal life, delivering an organized and stress-free lifestyle for its users. Unlike competitors, Work Likfe simplifies the complicated aspects of balancing work responsibilities and personal well-being, saving you time, effort, and money.",
+        "title": "Enhance Your Work-Life Harmony with Work Likfe"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach.",
+        "title": "Elevate Your Work Life with Ease"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Work Life with Ease",
+  "subtitle": "Discover tools designed to simplify and enhance your professional journey, putting success within reach."
+}
